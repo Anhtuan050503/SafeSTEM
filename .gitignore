@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+backend/.env
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# AI generated files
+runs/
+
+# Temporary test files
+bus.jpg
+
+# Model weights
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
